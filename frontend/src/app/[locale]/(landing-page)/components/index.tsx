@@ -1,0 +1,15 @@
+export { CallToAction } from './CallToAction';
+export { Faq } from './Faq';
+export { Features } from './Features';
+export { Footer } from './Footer';
+export { Header } from './Header';
+export { Hero } from './Hero';
+export { MarketingBanner } from './MarketingBanner';
+export { Events } from './Events';
+export { Socios } from './Socios';
+export { Functionalities } from './Functionalities';
+// export { Media } from './Media';
+export { Stats } from './Stats';
+export { Testimonials } from './Testimonials';
+export { Pricing } from './Pricing';
+export { CookieBanner } from './CookieBanner';

@@ -1,0 +1,663 @@
+{
+  "LandingPage": {
+    "header": {
+      "menu": {
+        "option1": "Features",
+        "option2": "Testimonials",
+        "option3": "FAQs?",
+        "option4": "Plans"
+      },
+      "buttons": {
+        "option1": "Login",
+        "option2": "Try for Free",
+        "option3": "Access the Dashboard"
+      }
+    },
+    "hero": {
+      "title": "Title of",
+      "titleWithEffect": "Hero!",
+      "subtitle": "This is a detailed description of what your website or app does, written in a few lines. It should be persuasive and to the point.",
+      "callToActionButton": "Try for Free",
+      "testimonials": {
+        "text": "Satisfied Customers",
+        "numberOfClients": "100"
+      }
+    },
+    "problems": {
+      "headerTitle": "The Problem",
+      "title": "XX% Striking Problem Title",
+      "subtitle": "Description of the problem your product solves. Should be a short, direct to the point description.",
+      "problems": {
+        "option1": {
+          "emoji": "🧑🏻‍💻",
+          "text": "Problem 1"
+        },
+        "option2": {
+          "emoji": "😓",
+          "text": "Problem 2"
+        },
+        "option3": {
+          "emoji": "😔",
+          "text": "Problem 3"
+        }
+      }
+    },
+    "banner": {
+      "content": "We are offering launch discounts on all plans!",
+      "leftText": "LAUNCH",
+      "rightText": "LAUNCH"
+    },
+    "features": {
+      "headerTitle": "Features",
+      "beforeTitle": "Title",
+      "titleWithEffect": "striking",
+      "afterTitle": "of the features",
+      "subtitle": "Description of the problems that your product solves. Should be a short, direct to the point description.",
+      "feature1": {
+        "title": "Feature 1",
+        "description": "Description of the feature",
+        "icon": "💰",
+        "image": "https://via.placeholder.com/400x400"
+      },
+      "feature2": {
+        "title": "Feature 2",
+        "description": "Description of the feature",
+        "icon": "👋",
+        "image": "https://via.placeholder.com/400x400/000"
+      },
+      "feature3": {
+        "title": "Feature 3",
+        "description": "Description of the feature",
+        "icon": "🪄",
+        "image": "https://via.placeholder.com/400x400"
+      },
+      "feature4": {
+        "title": "Feature 4",
+        "description": "Description of the feature",
+        "icon": "🚀",
+        "image": "https://via.placeholder.com/400x400/000"
+      },
+      "feature5": {
+        "title": "Feature 5",
+        "description": "Description of the feature",
+        "icon": "🎉",
+        "image": "https://via.placeholder.com/400x400/f4f4f4"
+      }
+    },
+    "callToAction": {
+      "title": "STILL HAVE DOUBTS?",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed sit amet. in faucibus orci luctus et ultrices posuere cubilia curae.",
+      "firstButton": "Access the documentation",
+      "secondButton": "Try for Free",
+      "imageUrl": "https://via.placeholder.com/1920x1800"
+    },
+    "stats": {
+      "headerTitle": "Statistics",
+      "title": "Impact in Numbers",
+      "subtitle": "Description of the impact in numbers.",
+      "stats1": {
+        "title": "Statistic 1",
+        "value": "100+"
+      },
+      "stats2": {
+        "title": "Statistic 2",
+        "value": "1000+"
+      },
+      "stats3": {
+        "title": "Statistic 3",
+        "value": "20000+"
+      },
+      "stats4": {
+        "title": "Statistic 4",
+        "value": "400H+"
+      }
+    },
+    "testimonials": {
+      "headerTitle": "Testimonials",
+      "title": "Quality and simplicity approved by those who value",
+      "testimonial1": {
+        "body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed sit amet.",
+        "author": {
+          "name": "Mauris euismod",
+          "handle": "Nullam vitae",
+          "imageUrl": "https://via.placeholder.com/48x48"
+        }
+      },
+      "testimonial2": {
+        "body": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "author": {
+          "name": "Vivamus fermentum",
+          "handle": "Curabitur aliquet",
+          "imageUrl": "https://via.placeholder.com/48x48"
+        }
+      },
+      "testimonial3": {
+        "body": "Suspendisse potenti. In eleifend massa nec odio eleifend, a pellentesque felis aliquet.",
+        "author": {
+          "name": "Fusce vehicula",
+          "handle": "Etiam ultricies",
+          "imageUrl": "https://via.placeholder.com/48x48"
+        }
+      },
+      "testimonial4": {
+        "body": "Quisque id diam vel quam elementum pulvinar. Etiam non quam lacus.",
+        "author": {
+          "name": "Vestibulum lacinia",
+          "handle": "Praesent sapien",
+          "imageUrl": "https://via.placeholder.com/48x48"
+        }
+      },
+      "testimonial5": {
+        "body": "Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+        "author": {
+          "name": "Nulla quis",
+          "handle": "Donec rutrum",
+          "imageUrl": "https://via.placeholder.com/48x48"
+        }
+      }
+    },
+    "faq": {
+      "headerTitle": "FAQ",
+      "title": "Have any questions?",
+      "subtitle": "Find answers to the most frequent questions and clarify your doubts.",
+      "questions&Answers": {
+        "faq1": {
+          "question": "Lorem ipsum dolor sit amet?",
+          "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor."
+        },
+        "faq2": {
+          "question": "Consectetur adipiscing elit?",
+          "answer": "Curabitur vel urna. In tristique orci porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus luctus mauris."
+        },
+        "faq3": {
+          "question": "Nec sagittis sem nibh id elit?",
+          "answer": "Duis semper. Donec vel libero ullamcorper, faucibus aliquet magna. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum."
+        },
+        "faq4": {
+          "question": "Curabitur mollis pretium?",
+          "answer": "Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus."
+        },
+        "faq5": {
+          "question": "Maecenas tempus tellus eget?",
+          "answer": "Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum."
+        },
+        "faq6": {
+          "question": "Sem quam semper libero?",
+          "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum."
+        },
+        "faq7": {
+          "question": "Praesent mauris fusce nec tellus?",
+          "answer": "Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+        }
+      }
+    },
+    "footer": {
+      "description": "Lorem ipsum dolor sit amet, Lorem ipsum dolor",
+      "menuTitle1": "Support",
+      "menuTitle2": "Institutional",
+      "menuTitle3": "Just Launch",
+      "navigation": {
+        "support": {
+          "item1": {
+            "name": "FAQs?",
+            "href": "#doubts"
+          },
+          "item2": {
+            "name": "Documentation",
+            "href": "docs.justlaunch.com.br"
+          },
+          "item3": {
+            "name": "Send your suggestion",
+            "href": "#"
+          }
+        },
+        "company": {
+          "item1": {
+            "name": "Features",
+            "href": "#features"
+          },
+          "item2": {
+            "name": "Testimonials",
+            "href": "#testimonials"
+          },
+          "item3": {
+            "name": "Plans",
+            "href": "#pricing"
+          },
+          "item4": {
+            "name": "Access the Dashboard",
+            "href": "/home"
+          },
+          "item5": {
+            "name": "Create an account",
+            "href": "/signup"
+          }
+        },
+        "legal": {
+          "item1": {
+            "name": "Cookie Policies",
+            "href": "/cookie"
+          },
+          "item2": {
+            "name": "Privacy Policies",
+            "href": "/privacy"
+          },
+          "item3": {
+            "name": "Terms and conditions",
+            "href": "/terms&conditions"
+          }
+        },
+        "social": {
+          "item1": {
+            "name": "Facebook",
+            "href": "#"
+          },
+          "item2": {
+            "name": "Instagram",
+            "href": "#"
+          },
+          "item3": {
+            "name": "Youtube",
+            "href": "#"
+          }
+        }
+      },
+      "copyright": " All rights reserved."
+    },
+    "pricing": {
+      "headerTitle": "Pricing",
+      "title": "Choose the price that best suits you",
+      "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit numquam eligendi quos odit doloribus molestiae voluptatum.",
+      "textOfMostPopular": "Most popular",
+      "callToAction": "Try for Free",
+      "cancel": "Cancel my plan",
+      "footerDescription": "Modi dolorem. expedita deleniti!",
+      "price1": {
+        "name": "Starter",
+        "description": "Modi dolorem expedita deleniti. Corporis iste qui inventore pariatur adipisci vitae.",
+        "nextPrice": "$69.90",
+        "price": "$49.90",
+        "moreInfoOfPrice": "/Month",
+        "feature1": "5 lorem ipsum",
+        "feature2": "Up 1000 Modi dolorem",
+        "feature3": "expedita deleniti",
+        "feature4": "Corporis iste qui",
+        "feature5": "inventore pariatur adipisci",
+        "mostPopular": "false"
+      },
+      "price2": {
+        "name": "Pro",
+        "description": "Modi dolorem expedita deleniti. Corporis iste qui inventore pariatur adipisci vitae.",
+        "nextPrice": "$99.90",
+        "price": "$69.90",
+        "moreInfoOfPrice": "/Month",
+        "feature1": "5 lorem ipsum",
+        "feature2": "Up 1000 Modi dolorem",
+        "feature3": "expedita deleniti",
+        "feature4": "Corporis iste qui",
+        "feature5": "inventore pariatur adipisci",
+        "mostPopular": "true"
+      }
+    },
+    "cookies": {
+      "content": "JustLaunch uses 🍪, by clicking 'Accept', you agree to the storage of cookies on your device to enhance site navigation,",
+      "acceptButton": "Accept",
+      "refuseButton": "Refuse",
+      "moreInfo": " learn more by clicking here."
+    },
+    "saveLeads": {
+      "callToActionButton": "Join the waiting list",
+      "successMessage": "Congratulations! You have successfully joined the waiting list.",
+      "errorMessageToValidateEmail": "Please enter a valid email."
+    }
+  },
+  "Auth": {
+    "signup": {
+      "metadata": {
+        "title": "Signup"
+      },
+      "title": "Create Account",
+      "headerSubtitle": "Start your ",
+      "subtitleWithColor": "7-day free trial ",
+      "subtitle": "and create up to 5 exercises. We do not ask for your credit card! 😉",
+      "registerSuccessMessage": "Registration successful!",
+      "errors": {
+        "register": {
+          "title": "Registration Error",
+          "message": "We are currently experiencing technical difficulties and are unable to process your registration. Please try again later. If the problem persists, please contact us at support@justlaunch.com.br"
+        }
+      },
+      "form": {
+        "labelName": "Your first name",
+        "labelEmail": "Email",
+        "labelPassword": "Password",
+        "labelConfirmPassword": "Confirm your password",
+        "placeholderEmail": "Enter your email",
+        "placeholderPassword": "Choose a strong password",
+        "placeholderName": "Enter your first name",
+        "placeholderConfirmPassword": "Confirm your password",
+        "alertWarningPassword": "Must be at least 8 characters.",
+        "messageOfPolicies": "By proceeding, you agree to the ",
+        "terms&conditions": "Terms of Use",
+        "privacy": "Privacy Policies",
+        "button": "Create account",
+        "alreadyAccountMessage": "Already have an account?",
+        "alreadyAccountButton": "Login with your account"
+      }
+    },
+    "signin": {
+      "metadata": {
+        "title": "Login"
+      },
+      "title": "Login",
+      "subtitle": "Enter your credentials below:",
+      "errors": {
+        "auth": {
+          "title": "Authentication Error",
+          "message": "During the authentication process, we identified that the email and/or password entered may be incorrect. Please check your credentials and try again. If you have forgotten your password, use the recovery option."
+        },
+        "resetPassword": {
+          "title": "Password Reset Error",
+          "message": "Sorry, we are unable to send a password reset email at this moment. Please try again later. If the problem persists, please contact us through support@justlaunch.com.br."
+        },
+        "invalidMail": "Please enter a valid email address."
+      },
+      "authSuccessMessage": "Authentication successful!",
+      "resetPasswordSuccessMessage": "A password reset email has been sent!",
+      "form": {
+        "email": "Enter your email",
+        "password": "***********",
+        "stayConnected": "Stay connected",
+        "forgotPassword": "Forgot password?",
+        "button": "Login",
+        "noAccount": "Not registered yet?",
+        "register": "Create an account"
+      },
+      "popup": {
+        "title": "Recover password",
+        "subtitle": "Just let us know your email below and we will send instructions for password recovery to your email.",
+        "button": "Recover password"
+      }
+    },
+    "resetPassword": {
+      "metadata": {
+        "title": "Reset Password"
+      },
+      "title": "Create a new password",
+      "headerSubtitle": "Enter a ",
+      "subtitleWithColor": "new password ",
+      "subtitle": "for your account. Make sure it is strong and unique to ensure the security of your information",
+      "form": {
+        "password": "Choose a strong password",
+        "confirmPassword": "Confirm your password",
+        "labelPassword": "Password",
+        "labelConfirmPassword": "Confirm your password",
+        "labelWarningPassword": "Must be at least 8 characters.",
+        "button": "Reset password",
+        "login": "Back to login"
+      },
+      "resetPasswordSuccessMessage": "Password changed!",
+      "errors": {
+        "resetPassword": {
+          "title": "Password Reset Error",
+          "message": "Sorry, we are unable to reset your password at this moment. Please try again later. If the problem persists, please contact us through support@homeworkai.com.br."
+        }
+      }
+    },
+    "signUpSuccess": {
+      "metadata": {
+        "title": "Success - Registration"
+      },
+      "title": "Registration Successful!",
+      "description": "Access the tool and say goodbye to hours spent manually creating homework tasks.",
+      "textButton": "Login"
+    }
+  },
+  "Compliance": {
+    "terms&conditions": {
+      "metadata": {
+        "title": "Terms and Conditions"
+      },
+      "title": "Terms and Conditions of Use for Just Launch",
+      "lastUpdated": "Last Updated: May 15, 2024",
+      "section1": {
+        "title": "1. Acceptance of Terms",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section2": {
+        "title": "2. Description of Service",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section3": {
+        "title": "3. Registration",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section4": {
+        "title": "4. Subscription Plans",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section5": {
+        "title": "5. Fees and Payments",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section6": {
+        "title": "6. Service Limitations",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section7": {
+        "title": "7. Restrictions on Use",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section8": {
+        "title": "8. User Responsibilities",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section9": {
+        "title": "9. Intellectual Property",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section10": {
+        "title": "10. Disclaimer",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section11": {
+        "title": "11. Limitation of Liability",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section12": {
+        "title": "12. Governing Law and Jurisdiction",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section13": {
+        "title": "13. Changes to Terms",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section14": {
+        "title": "14. Termination",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "section15": {
+        "title": "15. Contact",
+        "content": "For questions related to these Terms, contact us: "
+      }
+    },
+    "privacyPolicy": {
+      "metadata": {
+        "title": "Privacy Policy"
+      },
+      "title": "Privacy Policy for Just Launch",
+      "lastUpdated": "Last Updated: May 15, 2024",
+      "introduction": {
+        "title": "Introduction",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "privacyCommitment": {
+        "title": "1. Commitment to Privacy",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "dataTransparency": {
+        "title": "2. Data Transparency",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti.",
+        "subsections": {
+          "providedInformation": {
+            "title": "2.1 Provided Information",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+          },
+          "automaticallyCollectedInformation": {
+            "title": "2.2 Automatically Collected Information",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+          }
+        }
+      },
+      "informationAccuracy": {
+        "title": "3. Information Accuracy",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "personalDataDefinition": {
+        "title": "4. Definition of Personal and Sensitive Data",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "dataUse": {
+        "title": "5. Processing and Use of Personal Data",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "dataSharing": {
+        "title": "6. Data Sharing and Disclosure",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "dataControllerRole": {
+        "title": "7. Company's Role as Data Controller",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "dataProcessingUse": {
+        "title": "8. Information Security and Browser Compatibility",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "analysisTools": {
+        "title": "9. Use of Analysis and Tracking Tools",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti.",
+        "subsections": {
+          "cookiePolicy": {
+            "title": "9.1 Cookie Policy",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+          }
+        }
+      },
+      "dataRetentionDuration": {
+        "title": "10. Duration of Data Processing",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "policyChanges": {
+        "title": "11. Changes to Privacy Policy",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "userRights": {
+        "title": "12. User Rights",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a eros in mi iaculis condimentum. Aliquam feugiat elit eget nunc venenatis, ac finibus dui congue. Quisque mauris purus, consequat ac pulvinar at, condimentum vitae ipsum. Curabitur et nibh ut neque consectetur consequat id sit amet est. Etiam malesuada enim nibh, at ultricies tellus dapibus vitae. Quisque facilisis velit eget lacus posuere ullamcorper. In hac habitasse platea dictumst. Sed porta fermentum erat vitae feugiat. Integer tincidunt massa ex, quis interdum justo placerat quis. Suspendisse potenti."
+      },
+      "contact": {
+        "title": "13. Contact",
+        "content": "To exercise your rights or in case of doubts, contact us by email"
+      }
+    },
+    "cookie": {
+      "metadata": {
+        "title": "Cookie Policy"
+      },
+      "title": "Cookie Policy of Just Launch",
+      "lastUpdated": "Last Updated: May 15, 2024",
+      "introduction": {
+        "title": "1. What Are Cookies?",
+        "content": "Cookies are small text files sent to your device when you visit a website. They enhance your browsing experience by remembering your actions and preferences (such as login and region selection) so that you don’t have to re-enter them each time you visit."
+      },
+      "usage": {
+        "title": "2. How We Use Cookies",
+        "content": "We use cookies to collect information about how you use our sites and services. This includes:\n- IP tracking;\n- Device identifiers;\n- Browser type and access time;\n- Improvement and development of our products and services;\n- Sending personalized ads and offers."
+      },
+      "thirdPartyCookies": {
+        "title": "3. Third-Party Cookies",
+        "content": "In addition to the cookies we set ourselves, we also use third-party tools for analysis and advertising, which include:\n- Google Analytics: To understand how users interact with our site.\n- Facebook Pixel: For targeted advertising and engagement analysis.\n- Microsoft Clarity: For user behavior and experience analysis.\n- Stripe: For payment processing and transaction security."
+      },
+      "cookieManagement": {
+        "title": "4. Managing Cookies",
+        "content": "You have full control over the use of cookies. Most browsers automatically accept cookies, but you can adjust your browser settings to refuse or limit cookies. However, this may affect your experience on our site, possibly resulting in slower loading times or limiting certain functionalities."
+      },
+      "cookiePolicy": {
+        "title": "5. Cookie Policy at Just Launch",
+        "content": "On each visit to our site, we will present our cookie policy, giving you the choice to accept or decline cookies. We respect your decision and provide options to manage your preferences."
+      },
+      "policyUpdates": {
+        "title": "6. Updates to Cookie Policy",
+        "content": "We may update this policy periodically. We recommend that you review this policy regularly to stay informed about how we are using cookies."
+      },
+      "contact": {
+        "title": "7. Contact",
+        "content": "For questions related to these Terms, contact us at: "
+      }
+    }
+  },
+  "Dashboard": {
+    "user": {
+      "settings": {
+        "title": "Settings",
+        "menu": {
+          "item1": "Profile"
+        },
+        "profile": {
+          "title": "Personal Information",
+          "labels": {
+            "name": "Name",
+            "email": "Email"
+          }
+        }
+      },
+      "confirmationEmail": {
+        "metadata": {
+          "title": "Email Confirmation"
+        },
+        "title": "Email Confirmed!",
+        "description": "Access the tool now",
+        "textButton": "Go to the dashboard"
+      }
+    }
+  },
+  "Shared": {
+    "language": "English",
+    "sidebar": {
+      "bottomNavigation": {
+        "item1": "Settings",
+        "item2": "Feedback"
+      },
+      "mainNavigation": {
+        "item1": "Home"
+      }
+    },
+    "confirmationEmail": {
+      "subject": "Email Confirmation! Is it really you?",
+      "headerTitle": "Confirmation",
+      "title": "Confirm your email",
+      "hello": "Hello, ",
+      "message": "For your safety, we need to verify that your email belongs to you.",
+      "textLink": "Confirm my email",
+      "warningMessage": "If you have any problems, contact our team ",
+      "textWarningMessageLink": "by sending an email to support.",
+      "beforeFooter": "This email was sent to ",
+      "afterFooter": "when you registered with Just Launch. If you no longer wish to receive these emails, contact ",
+      "textFooterLink": "by sending an email to Support.",
+      "textLogin": "To log in, access ",
+      "textPrivacy": "Privacy Policy",
+      "textTerms": "Terms of Use"
+    },
+    "userConfirmationAccount": {
+      "title": "Account Confirmation Required!",
+      "hello": "Hello ",
+      "message": ", we've noticed that you haven't confirmed your account yet. To ensure security and the best experience on our platform, completing this process is essential.",
+      "warningMessage": "Click the button below to receive the email.",
+      "button1": "Send Confirmation Email",
+      "button2": "Resend Confirmation Email",
+      "verifyMessage": "Check your email now and confirm your account!",
+      "awaitMessage1": "Wait for ",
+      "awaitMessage2": " seconds to send again!"
+    }
+  }
+}
